@@ -1,4 +1,4 @@
-🛒 Dashboard de Performance E-commerce
+## 🛒 Dashboard de Performance E-commerce
 
 Este repositório apresenta um projeto completo de Business Intelligence focado na análise de vendas de um E-commerce multi-categoria. O dashboard transforma dados brutos de transações, fornecedores e categorias em insights estratégicos para a gestão de vendas.
 
